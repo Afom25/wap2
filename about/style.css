@@ -1,9 +1,51 @@
 body {
-    background-color: lightgreen;
+    background-color: rgb(65, 70, 61);
+}
+
+h1 {
+    color: lightskyblue;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+
 }
 
 h3 {
-    color: lightslategray;
-    font-weight: 200;
-    font-size: larger;
+    color: lightskyblue;
+    font-family: 'Tangerine', serif;
+
+    font-size: 30px;
+}
+
+h5 {
+    color: whitesmoke;
+}
+
+.aboutme-details {
+    color: whitesmoke;
+}
+
+.about {
+    color: yellow;
+
+}
+
+.course-details {
+    color: whitesmoke;
+}
+
+#movielink {
+    color: red;
+}
+
+.movie-details {
+    color: whitesmoke;
+}
+
+.facts-details {
+    color: whitesmoke;
+}
+
+.mood-text {
+    color: whitesmoke;
 }
