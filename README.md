@@ -6,7 +6,7 @@ Assignment2 - W1D3 - Basic CSS Styling
 ##### HTML
 #### CSS
 
-### Live Link : page is published/hosted  git hub :  
+### Live Link : page is published/hosted  git hub :  https://afom25.github.io/wap2/
 ### Live Link : page is published/hosted  netlify :  
 
 
