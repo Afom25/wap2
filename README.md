@@ -12,7 +12,7 @@ Assignment2 - W1D3 - Basic CSS Styling
 
 ### √ HTML validation passes with a GREEN :
 
-![Screen Shot 2022-11-03 at 12 07 35 AM (2)](https://user-images.githubusercontent.com/61077137/199651400-e8b78d2c-d909-49d0-af46-89a5255d5582.png)
+<img width="1512" alt="Screen Shot 2022-11-03 at 12 07 35 AM" src="https://user-images.githubusercontent.com/61077137/199651703-55b36e85-7f6a-47c9-8193-73b049de183b.png">
 
 
 
